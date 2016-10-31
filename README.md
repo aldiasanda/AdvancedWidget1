@@ -5,8 +5,12 @@
 ![screenshot_2016-10-31-09-58-49](https://cloud.githubusercontent.com/assets/22438078/19843448/0ef6d93a-9f55-11e6-82c9-b73c5ae46ece.jpg)
 
 ## Identitas 
-Nama  : Alifian Diasanda
+Nama          : Alifian Diasanda
 
-Kelas : XII RPL 5
+Kelas         : XII RPL 5
 
-No    : 01
+No            : 01
+
+NIS           : 4284/1182.063
+
+Nama Sekolah  : SMK Telkom Malang
